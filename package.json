@@ -1,0 +1,18 @@
+{
+  "name": "homebridge-cpu-temperature",
+  "version": "1.0.0",
+  "description": "Homebridge plugin to get CPU temperature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Dantin Durand",
+  "license": "ISC",
+  "dependencies": {
+    "homebridge": "^1.8.2",
+    "systeminformation": "^5.22.10"
+  }
+}
